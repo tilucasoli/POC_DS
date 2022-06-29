@@ -6,6 +6,7 @@ Criar um package com 1 componente que consegue mudar as cores de seu layout apen
 
 - [x] Definir componente a ser criado
 - [x] Definir arquitetura da Poc
+- [ ] Entender quais os tipos exclusivos que deveremos ter no POC_DS 
 - [ ] Definir uma folha de Design Tokens
 - [ ] Definir quais as propriedades podem ser alterados pelos componente tokens
 - [ ] Criar _**pub**_ de assets
@@ -21,7 +22,6 @@ O escolhido será o alert e ele deve contemplar os dois tipos de layout a baixo
 </p>
 
 ### Folha de Design tokens
-A folha de design tokens nessa poc vai contemplar apenas as cores
 
 ```json
 {
